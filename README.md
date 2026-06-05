@@ -1,4 +1,4 @@
-# Language Validator for X/Twitter Datasets
+# Language Validator for Social Media Datasets
 
 This script automatically detects the language of social media posts stored in a CSV file and validates whether they are written in Portuguese.
 
